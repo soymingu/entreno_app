@@ -1,0 +1,1 @@
+Este era mi proyecto personal para controlar y animarme a hacer ejercicio en casa. Lo que empezó siendo un simple html para uso personal se ha convertido en un proyecto para aprender algo de kotlin, descubrir como se publica una aplicación en la play store y en definitiva, seguir creciendo como persona.
